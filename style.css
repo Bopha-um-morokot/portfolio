@@ -1,0 +1,15 @@
+body, html{
+    margin:0;
+    padding:0;
+}
+
+nav {
+    display: flex;
+    justify-content: end;
+    background-color: rgb(105, 105, 131);
+    width: 100%;
+}
+
+nav a {
+    padding: 5px;
+}
